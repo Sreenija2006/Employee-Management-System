@@ -29,8 +29,7 @@ A simple web-based application to manage employee records using Java.
 - Model → Data objects
 - View → JSP pages
 
-
-****************************output*******************************
+################# 📸 Output#######################
 
 
 
