@@ -28,3 +28,15 @@ A simple web-based application to manage employee records using Java.
 - DAO → Database operations
 - Model → Data objects
 - View → JSP pages
+
+
+****************************output*******************************
+
+
+
+
+
+
+<img width="955" height="480" alt="screenshot1" src="https://github.com/user-attachments/assets/1b2ba149-6993-4969-86bf-3ccfdb8a47b1" />
+
+
